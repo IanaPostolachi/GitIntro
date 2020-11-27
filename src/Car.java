@@ -30,4 +30,10 @@ public class Car
   }
   
   privat String iana;
+  
+  public String getIana()
+  {
+    return iana;
+  }
+  
 }
