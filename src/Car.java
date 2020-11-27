@@ -8,4 +8,24 @@ public class Car
     this.car = car;
     this.year = year;
   }
+
+  public String getCar()
+  {
+    return car;
+  }
+
+  public void setCar(String car)
+  {
+    this.car = car;
+  }
+
+  public int getYear()
+  {
+    return year;
+  }
+
+  public void setYear(int year)
+  {
+    this.year = year;
+  }
 }
